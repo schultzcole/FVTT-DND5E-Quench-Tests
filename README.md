@@ -1,6 +1,6 @@
-# FVTT Module Template Repo
+# DND5E Quench Tests
 
-A template repository for easy creation of new modules.
+An unofficial hodge-podge collection of test suites for [dnd5e](https://gitlab.com/foundrynet/dnd5e) using the [Quench](https://gitlab.com/foundrynet/dnd5e) framework.
 
 ## License
 
